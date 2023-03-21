@@ -1,0 +1,17 @@
+{
+    "name": "project-node-qa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "assert": "^2.0.0",
+        "got": "^12.5.3",
+        "node-fetch": "^3.3.0"
+    }
+}
